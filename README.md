@@ -34,7 +34,7 @@
  * We can further use AppArmor to restrict capabilities of individual programs
  
  
- ##Ease of maintainance
+ ## Ease of maintainance
  
  * One generic helm chart is created and every a new values.yaml can be given to it in order to deploy and application
  * Flexibility for example, you can enable or disable volumes, volumesMounts, Ingress, PVC as per your choice
